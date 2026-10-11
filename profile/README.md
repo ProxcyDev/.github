@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProxcyDev/.github/main/profile/banner.png" alt="Proxcy" width="100%">
+  <img src="https://raw.githubusercontent.com/ProxcyDev/.github/main/profile/banner.webp" alt="Proxcy" width="100%">
 </p>
 
 <p align="center">
