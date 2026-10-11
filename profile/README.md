@@ -9,5 +9,5 @@
 <p align="center">
   <a href="https://proxcy.riyo.me">Dashboard</a> ·
   <a href="https://github.com/ProxcyDev/Proxies">Proxies</a> ·
-  <a href="https://github.com/ProxcyDev/Dashboard">Source</a>
+  <a href="https://github.com/ProxcyDev/Proxies">Source</a>
 </p>
